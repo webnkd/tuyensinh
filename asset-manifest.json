@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tuvants/static/css/main.1a67b5c7.css",
+    "main.js": "/tuvants/static/js/main.0362c00c.js",
+    "static/media/dark1.jpg": "/tuvants/static/media/dark1.0ef9fe4346cfa503075d.jpg",
+    "static/media/light1.jpg": "/tuvants/static/media/light1.3349d0576eb36ce892f6.jpg",
+    "index.html": "/tuvants/index.html",
+    "main.1a67b5c7.css.map": "/tuvants/static/css/main.1a67b5c7.css.map",
+    "main.0362c00c.js.map": "/tuvants/static/js/main.0362c00c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a67b5c7.css",
+    "static/js/main.0362c00c.js"
+  ]
+}
